@@ -1,6 +1,6 @@
 {
   "name": "split-skip",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Splits a String into an Array of substrings with the option to skip some cases where the separator is found, based on some truthy condition.",
   "main": "lib/split-skip.js",
   "author": {
@@ -19,5 +19,8 @@
   "devDependencies": {
     "chai": "^4.0.0",
     "mocha": "^3.4.2"
+  },
+  "dependencies": {
+    "magicli": "0.0.8"
   }
 }

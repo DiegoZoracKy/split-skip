@@ -11,6 +11,13 @@ Splits a String into an Array of substrings with the option to skip some cases w
 ```bash
 npm install split-skip
 ```
+**CLI**
+```bash
+npm install split-skip -g
+```
+```bash
+npx split-skip --help
+```
 
 ## Usage
 
