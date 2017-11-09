@@ -1,6 +1,6 @@
 {
   "name": "split-skip",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Splits a String into an Array of substrings with the option to skip some cases where the separator is found, based on some truthy condition.",
   "main": "lib/split-skip.js",
   "author": {
